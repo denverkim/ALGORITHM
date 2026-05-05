@@ -10,7 +10,7 @@ No sorting
 | 6                           | 4/10       | 정렬 알고리즘, 데이터 전처리 실습                 | Chapter 08 | [LAB #5](https://github.com/denverkim/ALGORITHM/blob/main/LAB5.ipynb) |
 | 7                           | 4/17       | 중간고사                                |            |                         |
 | 8                           | 4/24       | 알고리즘 설계, 시간 복잡도와 공간 복잡도, 널값 처리, 대체, 병합, 피벗 테이블, 크로스탭             ||[LAB #6](https://github.com/denverkim/ALGORITHM/blob/main/LAB6.ipynb) |
-| 9                           | 5/1        | 데이터 시각화                             |            | Project Stage 0         |
+| 9                           | 5/1        | 데이터 시각화                             |            | Project Stage 0, [LAB#7](https://github.com/denverkim/ALGORITHM/blob/main/LAB7.ipynb)        |
 | 10                          | 5/8        | 클래스와 객체 지향, 탐색 알고리즘                          |            |            | 
 | 11                          | 5/15       | 그래프 알고리즘: DFS &amp; BFS             |            | Project Stage 1         |
 | 12                          | 5/22       | 동적 계획법                              |            |                         |
