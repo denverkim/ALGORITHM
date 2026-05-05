@@ -3,7 +3,7 @@ No sorting
 | Week                        | Dates      | Topics                              | Chapters   | Assignments             |
 | --------------------------- | ---------- | ----------------------------------- | ---------- | ----------------------- |
 | 1                           | 3/6        | 알고리즘 개요 및 과목 소개                             | Chapter 01 | Introduce Yourself |
-| 2                           | 3/13       | 파이썬 설치 및 기본 문법 자료형 연산자, 변수, 정렬 알고리즘 | Chapter 01 | LAB #1 |
+| 2                           | 3/13       | 파이썬 설치 및 기본 문법 자료형 연산자, 변수, 정렬 알고리즘 | Chapter 01 | [LAB #1](https://github.com/denverkim/ALGORITHM/blob/main/LAB1.ipynb) |
 | 3                           | 3/20       | 제어문(if, for, while), 함수와 모듈, 패키지      | Chapter 02 | LAB #2 |
 | 4                           | 3/27       | 재귀 알고리즘, 판다스 소개, 자료구조  | Chapter 03 | LAB #3 |
 | 5                           | 4/3        | 인덱싱, 슬라이싱, 필터링                      | Chapter 04 | LAB #4 |
