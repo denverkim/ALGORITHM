@@ -13,7 +13,7 @@ No sorting
 | 9                           | 5/1        | 데이터 시각화                             |            | Project Stage 0, [LAB#7](https://github.com/denverkim/ALGORITHM/blob/main/LAB7.ipynb)        |
 | 10                          | 5/8        | 탐색 알고리즘, 웹스크래핑                          | |[LAB #8](https://github.com/denverkim/ALGORITHM/blob/main/ALGORITHM_LAB8.ipynb)           | 
 | 11                          | 5/15       | 그래프 기초           |            | Project Stage 1, [LAB #9](https://github.com/denverkim/ALGORITHM/blob/main/ALGORITHM_LAB9.ipynb)          |
-| 12                          | 5/22       | 그래프 알고리즘: : DFS &amp; BFS, 최단 경로 알고리즘                              |            |                         |
+| 12                          | 5/22       | 그래프 알고리즘: DFS &amp; BFS, 최단 경로 알고리즘                              |            |                         |
 | 13                          | 5/29       | 동적 계획법                          |            |                         |
 | 14                          | 6/5        | 기말 고사                               |            |                         |
 | 15                          | 6/12       | 프로젝트 발표                             |            | Project Stage 2 &amp; 3 |
