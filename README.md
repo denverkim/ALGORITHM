@@ -12,7 +12,7 @@ No sorting
 | 8                           | 4/24       | 알고리즘 설계, 시간 복잡도와 공간 복잡도, 널값 처리, 대체, 병합, 피벗 테이블, 크로스탭             ||[LAB #6](https://github.com/denverkim/ALGORITHM/blob/main/LAB6.ipynb) |
 | 9                           | 5/1        | 데이터 시각화                             |            | Project Stage 0, [LAB#7](https://github.com/denverkim/ALGORITHM/blob/main/LAB7.ipynb)        |
 | 10                          | 5/8        | 탐색 알고리즘, 웹스크래핑                          | |[LAB #8](https://github.com/denverkim/ALGORITHM/blob/main/ALGORITHM_LAB8.ipynb)           | 
-| 11                          | 5/15       | 그래프 알고리즘: DFS &amp; BFS             |            | Project Stage 1, |[LAB #9](https://github.com/denverkim/ALGORITHM/blob/main/ALGORITHM_LAB9.ipynb)          |
+| 11                          | 5/15       | 그래프 알고리즘: DFS &amp; BFS             |            | Project Stage 1, [LAB #9](https://github.com/denverkim/ALGORITHM/blob/main/ALGORITHM_LAB9.ipynb)          |
 | 12                          | 5/22       | 동적 계획법                              |            |                         |
 | 13                          | 5/29       | 최단 경로 알고리즘                          |            |                         |
 | 14                          | 6/5        | 기말 고사                               |            |                         |
