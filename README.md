@@ -1,5 +1,4 @@
- Outer pipes  Cell padding 
-No sorting
+2026 Spring
 | Week                        | Dates      | Topics                              | Chapters   | Assignments             |
 | --------------------------- | ---------- | ----------------------------------- | ---------- | ----------------------- |
 | 1                           | 3/6        | 알고리즘 개요 및 과목 소개                             | Chapter 01 | Introduce Yourself |
